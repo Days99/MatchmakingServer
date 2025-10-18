@@ -1,0 +1,5 @@
+﻿  MatchmackingServer.cpp
+C:\Users\diogo\source\repos\MatchmackingServer\MatchmackingServer\MatchmackingServer.cpp(82,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diogo\source\repos\MatchmackingServer\MatchmackingServer\MatchmackingServer.cpp(91,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diogo\source\repos\MatchmackingServer\MatchmackingServer\MatchmackingServer.cpp(114,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MatchmackingServer.vcxproj -> C:\Users\diogo\source\repos\MatchmackingServer\x64\Debug\MatchmackingServer.exe
